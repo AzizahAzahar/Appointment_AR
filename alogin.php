@@ -20,7 +20,7 @@
 			<button type="submit" name="submit" style="float:right">Log In</button>
 		</div>
 <?php 
-function SignIn() //sign in
+function SignIn()
 { 
 session_start();
  {  
