@@ -4,7 +4,7 @@
 </head>
 <body background= "doctordesk.jpg">
 <ul>
-<li class="dropdown"><font color="yellow" size="5">Entrepreneur Development Assistant Mode</font></li>
+<li class="dropdown"><font color="blue" size="5">Entrepreneur Development Assistant Mode</font></li>
 <br>
 <h2>
 	
